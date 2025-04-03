@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="H2">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../Program Files (x86)/H2" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../../Program Files (x86)/H2/src/java21/src" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files (x86)/H2/src/main" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files (x86)/H2/src/test" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files (x86)/H2/src/tools" />
+    </SOURCES>
+  </library>
+</component>
